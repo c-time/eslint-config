@@ -1,0 +1,26 @@
+{
+  "name": "@c-time/eslint-config",
+  "version": "0.0.1",
+  "description": "eslint / prettier config for PRODUCTION C-time! projects",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "react.js",
+    "prettier-config.js"
+  ],
+  "scripts": {
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c-time/eslint-config.git"
+  },
+  "author": "PRODUCTION C-time!",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c-time/eslint-config/issues"
+  },
+  "homepage": "https://github.com/c-time/eslint-config#readme"
+}
