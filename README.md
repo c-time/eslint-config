@@ -16,14 +16,14 @@ $ npm install --save-dev
 Reactプロジェクト
 
 ```
-$ npm install --save-dev eslint prettier @typescript/eslint-plugin @typescript/parser eslint-config-prettier eslint-config-import eslint-plugin-prefer-arrow
+$ npm install --save-dev eslint prettier @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-prettier eslint-config-import eslint-plugin-prefer-arrow
 $ npm install --save-dev eslint-config-airbnb eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks
 ```
 
 バックエンドプロジェクト
 
 ```
-$ npm install --save-dev eslint prettier @typescript/eslint-plugin @typescript/parser eslint-config-prettier eslint-config-import eslint-plugin-prefer-arrow
+$ npm install --save-dev eslint prettier @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-prettier eslint-config-import eslint-plugin-prefer-arrow
 $ npm install --save-dev eslint-config-airbnb-base
 ```
 
