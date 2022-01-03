@@ -29,6 +29,7 @@ module.exports = {
   rules: {
     "class-methods-use-this": ["off", { "enforceForClassFields": false }],
     "import/prefer-default-export": "off",
+    "no-useless-constructor": "off",
     "no-use-before-define": "off",
     "@typescript-eslint/no-use-before-define": ["error"],
     "@typescript-eslint/explicit-member-accessibility": ["error"],
