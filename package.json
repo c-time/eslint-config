@@ -1,6 +1,6 @@
 {
   "name": "@c-time/eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "eslint / prettier config for PRODUCTION C-time! projects",
   "main": "index.js",
   "files": [

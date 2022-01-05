@@ -27,6 +27,7 @@ module.exports = {
     "prefer-arrow",
   ],
   rules: {
+    "class-methods-use-this": ["off", { "enforceForClassFields": false }],
     "no-use-before-define": "off",
     "@typescript-eslint/no-use-before-define": ["error"],
     "@typescript-eslint/explicit-member-accessibility": ["error"],
@@ -74,6 +75,12 @@ module.exports = {
     ],
   },
   overrides: [
+    {
+      "files": [ "*.ts" ],
+      "rules": {
+        "import/prefer-default-export": "off",
+      }
+    }
   ],
 };
 
